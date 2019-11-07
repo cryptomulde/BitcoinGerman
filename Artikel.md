@@ -1,4 +1,4 @@
-Die Reihenfolge ist rein zufällig und keine Preferenz
+Die Reihenfolge ist rein zufällig und keine Präferenz
 
 | Titel                                                                         | Bescheibung                                    | 
 | :--------------------------------------------------------------------------   | :--------------------------------------------- |
