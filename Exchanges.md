@@ -7,4 +7,5 @@
 | Bitpanda       |   Ja   |      Nein     |      Nein     | https://www.bitpanda.com/de  |   |     
 | Binance        |   Ja   |      Nein     |      Nein     | https://www.binance.com/de   |   | 
 | Bitmex         |   Ja   |      Nein     |      Nein     | https://www.bitmex.com/      |   | 
+| Bity           |   Nein |      Nein     |      Nein     | https://bity.com/exchange    |   | 
 
